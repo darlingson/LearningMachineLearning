@@ -1,0 +1,7 @@
+Logistic regression
+- not a regression algorithm, gives a probability as output
+- classification can be binary or multi
+- logistic regression uses the same function of f(x) as linear regression
+- the output is in the range of 0 - 1
+- sigmoid is applied to the function
+- it is a prediction function
