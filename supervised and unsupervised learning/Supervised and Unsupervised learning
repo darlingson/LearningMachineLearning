@@ -1,0 +1,15 @@
+Supervised and Unsupervised learning
+Supervised Learning
+- has features and a target variable
+- features are independepent
+- the target variable is dependent
+- supervised learning has 2 parts :
+a. regression
+	- values are continous
+	- values are infinite
+b. classification
+	 - output is descreete values
+	 - output are not infinite
+
+Unsupervised Learning
+- crusters the data(e.g market segmentation)
