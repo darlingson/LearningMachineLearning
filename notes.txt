@@ -1,0 +1,4 @@
+Applications of Machine Learning
+- Spam Detection
+Types of Machine Learning Systems
+1. Supervised Learning
