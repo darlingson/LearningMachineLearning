@@ -1,1 +1,16 @@
 Linear regression
+- regression is a type of supervised learning
+- values will be continous
+
+How it works
+- works on scattered data
+- a straight called the hypotheses is fitted through the scattered data
+- uses the theta function to find the hypothesis
+- cost function is used to evaluate a model
+	- calculates the distance between predicted and actual values
+	- The higher the cost, the less acurate the model
+- The gradient descent algorithm helps in optimizing the value of theta
+- normal equation gives optimal theta in one go
+
+Assumptions of Linear regression
+- Linear relationship
