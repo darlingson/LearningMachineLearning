@@ -1,0 +1,20 @@
+Introduction
+Applications of Machine Learning
+- Spam Detection
+- house price prediction
+Types of Machine Learning Systems
+1. Supervised Learning
+- system is fed with labelled data
+- input variable and output variable is known
+- supervised learning are classified into
+ a. regression
+  - values are continious
+ b. classification
+  - values are descreete
+- output is already known
+2. Unsupervised Learning
+- data is not labelled
+- output is known
+
+
+overfitting and underfitting
